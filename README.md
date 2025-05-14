@@ -1,4 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Timur!
+
+I'm a 15-year-old student at **Lincoln UTC**, passionate about low-level programming and game engine development.
+
+## 👨‍💻 About Me
+
+- 🔧 I primarily work in **C/C++** and **GLSL**, but I'm also skilled in **C#**, **Java**, **HLSL**, and others.
+- 🚀 Currently developing a **space simulation sandbox** for accurate universe-scale physics.
+- 🖥️ I use **Arch Linux** with **Hyprland** (shoutout to end-4 for the dotfiles <3).
+- 🧠 I'm always exploring new concepts in game engines, rendering, and systems programming.
+
+## 🎮 Favourite Games
+
+- Minecraft  
+- Satisfactory  
+- ULTRAKILL  
+- Doki Doki Literature Club  
+- Class of '09  
+
+## 💻 My PC Specs
+
+**CPU**: Ryzen 9 5950X – 16 cores (32 threads) @ 5.00 GHz  
+**GPUs**: MSI Ventus 2X RTX 4060 8GB + MSI GT 1030  
+**RAM**: 64 GB Corsair Vengeance DDR4 @ 3600 MHz  
+**Motherboard**: MSI MAG B550 TOMAHAWK WiFi  
+**Storage**:
+- 1× WD 2 TB M.2  
+- 2× Samsung 960 2 TB SSD  
+
+**Cooling**: Corsair H100X RGB Elite Liquid Cooler  
+**Case**: NZXT H6 Flow RGB  
+**Monitors**:
+- 1× AOC 27" 1440p 155Hz  
+- 2× Koorui 21" 1080p 165Hz  
+
+**Keyboard**: Ducky One 3 Mist (White)  
+**Mouse**: Razer Cobra Pro  
+**OS**: Arch Linux (Hyprland) + Windows 11 Pro (VM)
+
+## 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurinal)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **timurinal/timurinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,37 +57,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm Timur! I'm 15, and currently a student at Lincoln UTC. I do a lot of programming, with a focus on game engine programming. My best programming languages are C/C++ and GLSL, but I am also very good with C#, Java, HLSL, and several others.
-
-I'm currently working on a space simulation sandbox that allows for accurate universe simulations.
-
-I use Arch Linux with Hyprland (thanks end-4 for the dotfiles <3). My favorite games include Minecraft, Satisfactory, and Ultrakill. I also love visual novels like Doki Doki Literature Club, and Class of '09.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timurinal)](https://github.com/anuraghazra/github-readme-stats)
-
-### My PC
-
-CPU: Ryzen 9 5950X | 16 Cores (32 Threads) @ 5.00 GHz<br>
-GPUs:
-- MSI Ventus 2X RTX 4060 8 GB<br>
-- MSI GT 1030<br>
-RAM: 64 GB (4x16 GB) Corsair Vengance DDR4 @ 3600 MHz<br>
-Motherboard: MSI MAG B550 TOMAHAWK WiFi<br>
-Storage:
-- 1x WD 2TB M.2<br>
-- 2x Samsung 960 2 TB SSD<br>
-
-CPU Cooler: Corsair H100X RGB Elite Liquid Cooler<br>
-Case: NZXT H6 Flow RGB<br>
-
-OS:
-- Arch Linux - Hyprland<br>
-- Windows 11 Pro (VM)<br>
-
-Monitors: <br>
-- 1x AOC 1440p 27" 155Hz<br>
-- 2x Koorui 1080p 21" 165Hz<br>
-
-Keyboard: Ducky One 3 Mist - White<br>
-Mouse: Razer Cobra Pro
