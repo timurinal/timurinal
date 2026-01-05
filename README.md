@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Timur, a 15-year-old wanting to get into game engine programming and other low level development.
+I'm Timur, a 16-year-old wanting to get into game engine programming and other low level development.
 
 I mainly use C++ and OpenGL, but I am also learning Vulkan.
 
