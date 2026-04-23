@@ -1,13 +1,11 @@
-## Hi there 👋
-
-I'm Timur, a 16-year-old wanting to get into game engine programming and other low level development.
+16 year old game developer.
 
 I mainly use C++ and OpenGL, but I am also learning Vulkan.
 
-Contact info is on my [website](https://timurinal.co.uk).
+Contact info and projects I've worked on can be found on my [website](https://timurinal.co.uk).
 
 Some of the things I like are:
-- Games (Rust, Minecraft, Satisfactory)
+- Games (Rust, Minecraft, Satisfactory, Wuthering Waves)
 - Anime
 - Computers
 
