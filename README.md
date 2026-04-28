@@ -1,6 +1,6 @@
 16 year old game developer.
 
-I mainly use C++ and OpenGL, but I am also learning Vulkan.
+I mainly use C++ and as of recently, bgfx. I'm also familiar with OpenGL, and have done a very little bit with Vulkan.
 
 Contact info and projects I've worked on can be found on my [website](https://timurinal.co.uk).
 
